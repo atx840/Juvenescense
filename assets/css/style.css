@@ -197,6 +197,17 @@
   opacity: 0.8;
 }
 
+.alert {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+
+.alert .alert-icon {
+  font-size: 30px;
+  margin-top: -14px;
+}
+
 .card .category i,
 .card .label i {
   font-size: 16px;
