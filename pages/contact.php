@@ -16,15 +16,15 @@ else{
 	$required = array('location','email','message');
 	
 	if($_POST['location']=='chaparral'){
-		$your_email = "atx840@gmail.com";
+		$your_email = "chaparral@juvenescence.ca";
 	} elseif ($_POST['location']=='douglasglen') {
-		$your_email = "chris.browne@lvs1.com";
+		$your_email = "douglasglen@juvenescence.ca";
 	}elseif ($_POST['location']=='jjobrien') {
-		$your_email = "info@chrisbrowne.com";
+		$your_email = "jjobrien@juvenescence.ca";
 	}elseif ($_POST['location']=='cranston') {
-		$your_email = "chris@mightyind.com";
+		$your_email = "cranston@juvenescence.ca";
 	}else {
-		$your_email = "atx840@gmail.com";
+		$your_email = "info@juvenescence.ca";
 	}
 	// $your_email = $_POST['location']"@gmail.com";
 	// $email_subject = $_POST['location'].": ".$_POST['subject'];
