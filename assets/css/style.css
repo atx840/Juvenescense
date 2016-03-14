@@ -182,6 +182,27 @@
   border: 2px solid #d88715;
 }
 
+.btn-sq-lg {
+  width: 150px !important;
+  height: 45px !important;
+
+  font-size: 20px;
+}
+.btn{
+  border-radius: 0px;
+}
+
+.btn-sq {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.section-facebook {
+  padding: 0px 0px;
+  position: relative;
+  background-color: #f4f3ef;
+}
+
 .navbar .navbar-nav > li > a.btn.btn-facebook, .btn-facebook {
   border-color: #3b5998;
   color: #3b5998;
