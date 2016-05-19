@@ -24,7 +24,7 @@ else{
 	}elseif ($_POST['location']=='cranston') {
 		$your_email = "cranston@juvenescence.ca";
 	}elseif ($_POST['location']=='monsignor') {
-		$your_email = "monsmith@juvenescence.ca";
+		$your_email = "jssmith@juvenescence.ca";
 	}else {
 		$your_email = "info@juvenescence.ca";
 	}
