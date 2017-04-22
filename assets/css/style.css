@@ -181,6 +181,15 @@
   color: #b25825;
   border: 2px solid #d88715;
 }
+.navbar .navbar-nav > li > a.btn.btn-red, .btn-red {
+  border-color: #B33C12;
+  color: #B33C12;
+}
+
+.navbar .navbar-nav > li > a.btn.btn-red:hover, .navbar .navbar-nav > li > a.btn.btn-red:focus, .navbar .navbar-nav > li > a.btn.btn-red:active, .navbar .navbar-nav > li > a.btn.btn-red:active:hover, .navbar .navbar-nav > li > a.btn.btn-red:active:focus, .navbar .navbar-nav > li > a.btn.btn-red.active, .open > .navbar .navbar-nav > li > a.btn.btn-red.dropdown-toggle:focus, .open > .navbar .navbar-nav > li > a.btn.btn-red.dropdown-toggle:hover, .open > .navbar .navbar-nav > li > a.btn.btn-red.dropdown-toggle, .btn-red:hover, .btn-red:focus, .btn-red:active, .btn-red:active:hover, .btn-facebook:active:focus, .btn-facebook.active, .open > .btn-facebook.dropdown-toggle:focus, .open > .btn-facebook.dropdown-toggle:hover, .open > .btn-facebook.dropdown-toggle {
+  background-color: #B33C12;
+  border-color: #B33C12;
+}
 
 .btn-sq-lg {
   width: 150px !important;
@@ -264,6 +273,15 @@
 .text-orange, .text-orange:hover {
   color: #ff8f5e; }
 
+.text-brown, .text-brown:hover {
+  color: #a47e65; }
+
+.text-red, .text-red:hover {
+  color: #ed6967; }
+
+.card[data-color="red"] {
+  background: #ed6967;
+}
 .text-warning, .text-warning:hover {
   color: #F3BB45; }
  
@@ -276,5 +294,10 @@
 
 .icon-purple {
   color: #baa9ba; }
-.icon-orange {
-  color: #ff8f5e; }
+
+.icon-brown {
+  color: #a47e65;;
+}
+
+
+
