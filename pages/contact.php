@@ -19,8 +19,6 @@ else{
 		$your_email = "chaparral@juvenescence.ca";
 	} elseif ($_POST['location']=='douglasglen') {
 		$your_email = "douglasglen@juvenescence.ca";
-	}elseif ($_POST['location']=='jjobrien') {
-		$your_email = "jjobrien@juvenescence.ca";
 	}elseif ($_POST['location']=='cranston') {
 		$your_email = "cranston@juvenescence.ca";
 	}elseif ($_POST['location']=='monsignor') {
